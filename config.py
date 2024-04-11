@@ -11,7 +11,7 @@ API_ID = int(getenv("API_ID", "24066716"))
 API_HASH = getenv("API_HASH", "09e30e6e0b1a4c71e43a055979c51b3b")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "7056425213:AAHC_WcCbVjcXfkdp0aQxHRLrhQ5Zn4ihR4")
+BOT_TOKEN = getenv("BOT_TOKEN", "7165289354:AAEfUoI164OAGGEgkZimk1xHlGiPNaHsg60")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://nesirovq1997:qadir1997@cluster0.pavador.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
@@ -35,7 +35,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Theferid/The_ferid",
+    "https://github.com/Qadirnesirov/ZatraMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
