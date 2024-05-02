@@ -28,7 +28,7 @@ from strings import get_string
 @LanguageStart
 async def start_pm(client, message: Message, _):
     await asyncio.sleep(1)  # 1 saniye bekle
-    sticker3 = await message.reply_sticker(sticker="CAACAgQAAxkBAAEBxKdmM7ll-_Io7q1iSuRQuTb5TFK_CgAC4RAAAqbxcR5kJ1XkrOLnyR4E")  # Üçüncü stiker
+    sticker1 = await message.reply_sticker(sticker="CAACAgQAAxkBAAEBxKdmM7ll-_Io7q1iSuRQuTb5TFK_CgAC4RAAAqbxcR5kJ1XkrOLnyR4E")  # birinci stiker
     await sticker1.delete()
     await add_served_user(message.from_user.id)
     if len(message.text.split()) > 1:
