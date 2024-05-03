@@ -1,5 +1,5 @@
 name : 🇦🇿 Azərbaycanca
-
+S_B_10 : "Dil"
 
 general_1 : "» İstifadəçinin mesajına cavab verin və ya istifadəçi adını/id-sini verin"
 general_2 : "» Sorğunuzu icra etmə zamanı bir şeylər səhv gedir.\n\nİstisna : <code>{0}</code>"
@@ -190,6 +190,7 @@ S_B_6 : "Rəsmi Kanal ✅"
 S_B_7 : "Digər Botlar 🔮"
 S_B_8 : "🔻 YouTube"
 S_B_9 : "Söhbət Qrupu 💬"
+S_B_10 : "Dil"
 
 H_B_1 : "İstifadəçi"
 H_B_2 : "Admin"
