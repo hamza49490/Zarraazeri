@@ -11,7 +11,7 @@ API_ID = int(getenv("API_ID", "24066716"))
 API_HASH = getenv("API_HASH", "09e30e6e0b1a4c71e43a055979c51b3b")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "7056425213:AAHC_WcCbVjcXfkdp0aQxHRLrhQ5Zn4ihR4")
+BOT_TOKEN = getenv("BOT_TOKEN", "7607259347:AAF90Z3_RNXo0FqMuUWmulD_EuJ4vYHkNdQ")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://nesirovq1997:qadir1997@cluster0.pavador.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
@@ -22,7 +22,7 @@ SONG_DOWNLOAD_DURATION = int(
     getenv("SONG_DOWNLOAD_DURATION_LIMIT", "5400")
 )
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002096806763"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1001906199562"))
 
 # Get this value from @Hot_Girl_Robot on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID", "6184936428"))
@@ -35,7 +35,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Qadirnesirov/ZatraMusic",
+    "https://github.com/hamza49490/Zarraazeri",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
