@@ -20,7 +20,7 @@ answer.extend(
             title="Sᴋɪᴩ",
             description=f"sᴋɪᴩ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ ᴀɴᴅ ᴍᴏᴠᴇs ᴛᴏ ᴛʜᴇ ɴᴇxᴛ sᴛʀᴇᴀᴍ.",
             thumb_url="https://te.legra.ph/file/754e95311eccb48b7aafc.jpg",
-            input_message_content=InputTextMessageContent("/skip"),
+            input_message_content=InputTextMessageContent("/atla"),
         ),
         InlineQueryResultArticle(
             title="Eɴᴅ",
