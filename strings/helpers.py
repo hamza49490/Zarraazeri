@@ -1,6 +1,6 @@
 HELP_1 = """<b><u>ᴜsᴇʀ ᴄᴏᴍᴍᴀɴᴅs :</b></u>
 
-‣ <b>/play: Musiqi çalır</b>
+‣ <b>/play: şarkıyı oynat</b>
 ‣ <b>/vplay: Videonu oynayır</b>
 ‣ <b>/start: Musiqi botunu işə salır</b>
 ‣ <b>/help: Komanda izahatları ilə yardım menyusunu əldə edin</b>
