@@ -37,8 +37,9 @@ from config import BANNED_USERS, lyrical
             "cplayforce",
             "cvplayforce",
             "oynat", 
-            "voyant", 
+            "voynat", 
             "Coynat", 
+            "devam",
         ]
     )
     & filters.group
