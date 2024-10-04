@@ -5,28 +5,28 @@ answer = []
 answer.extend(
     [
         InlineQueryResultArticle(
-            title="Pᴀᴜsᴇ",
+            title="durdur",
             description=f"ᴩᴀᴜsᴇ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
             thumb_url="https://te.legra.ph/file/754e95311eccb48b7aafc.jpg",
-            input_message_content=InputTextMessageContent("/pause"),
+            input_message_content=InputTextMessageContent("/durdur"),
         ),
         InlineQueryResultArticle(
-            title="Rᴇsᴜᴍᴇ",
+            title="devam",
             description=f"ʀᴇsᴜᴍᴇ ᴛʜᴇ ᴩᴀᴜsᴇᴅ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
             thumb_url="https://te.legra.ph/file/754e95311eccb48b7aafc.jpg",
-            input_message_content=InputTextMessageContent("/resume"),
+            input_message_content=InputTextMessageContent("/devam"),
         ),
         InlineQueryResultArticle(
-            title="Sᴋɪᴩ",
+            title="atla",
             description=f"sᴋɪᴩ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ ᴀɴᴅ ᴍᴏᴠᴇs ᴛᴏ ᴛʜᴇ ɴᴇxᴛ sᴛʀᴇᴀᴍ.",
             thumb_url="https://te.legra.ph/file/754e95311eccb48b7aafc.jpg",
             input_message_content=InputTextMessageContent("/atla"),
         ),
         InlineQueryResultArticle(
-            title="Eɴᴅ",
+            title="son",
             description="ᴇɴᴅ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
             thumb_url="https://te.legra.ph/file/754e95311eccb48b7aafc.jpg",
-            input_message_content=InputTextMessageContent("/end"),
+            input_message_content=InputTextMessageContent("/son"),
         ),
         InlineQueryResultArticle(
             title="Sʜᴜғғʟᴇ",
