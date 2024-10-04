@@ -11,10 +11,10 @@ HELP_1 = """<b><u>ᴜsᴇʀ ᴄᴏᴍᴍᴀɴᴅs :</b></u>
 HELP_2 = """
 <b><u>ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs :</b></u>
 
-‣ <b>/playmode: İstifadəçi təcrübəsini tənzimləyir</b>
-‣ <b>/pauza: Müvəqqəti olaraq dayandırır</b>
-‣ <b>/resume: Davam etmə dayandırıldı</b>
-‣ <b>/skip: Növbəti musiqiyə keçir</b>
+‣ <b>/playmode: Kullanıcı deneyimini ayarla</b>
+‣ <b>/pauza: Geçici olarak duraklat.</b>
+‣ <b>/resume: Duraklatılan müziği devam ettir.</b>
+‣ <b>/skip: Bir sonraki şarkıya geç.</b>
 ‣ <b>/end və ya /stop:  Gelecek parçaları temizle ve mevcut çalmayı durdur.</b>
 ‣ <b>/növbə: Kuyruğu göster.</b>
 ‣ <b>/auth [username/user_ID]</b>
