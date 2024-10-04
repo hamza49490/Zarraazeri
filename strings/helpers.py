@@ -15,23 +15,23 @@ HELP_2 = """
 ‣ <b>/pauza: Müvəqqəti olaraq dayandırır</b>
 ‣ <b>/resume: Davam etmə dayandırıldı</b>
 ‣ <b>/skip: Növbəti musiqiyə keçir</b>
-‣ <b>/end və ya /stop: Qarşıdan gələn trekləri təmizləyir və cari oxutmanı dayandırır</b>
-‣ <b>/növbə: Siyahını göstərir</b>
+‣ <b>/end və ya /stop:  Gelecek parçaları temizle ve mevcut çalmayı durdur.</b>
+‣ <b>/növbə: Kuyruğu göster.</b>
 ‣ <b>/auth [username/user_ID]</b>
 ‣ <b>/unauth [username/user_ID]</b>
-‣ <b>/authusers: Qrup üçün ehtiyat istifadəçilər siyahısını göstərir</b>
-‣ <b>/qarışdır: növbəni qarışdırır</b>
-‣ <b>/növbə: Qarışıq növbəni göstərir</b>
+‣ <b>/authusers: Grup için yetkilendirilmiş kullanıcıların listesini göster.</b>
+‣ <b>/qarışdır: Kuyruğu karıştır.</b>
+‣ <b>/növbə: Karıştırılmış kuyrukta göster</b>
 """
 
 HELP_3 = """
 <b><u>ᴏᴡɴᴇʀ ᴄᴏᴍᴍᴀɴᴅs :</b></u>
 
 ‣ <b>/logger [enable/disable]</b>
-‣ <b>/gban [istifadəçi adı və ya cavab] : Qruplara qadağalar</b>
-‣ <b>/ungban [istifadəçi adı və ya cavab] : Qlobal qadağaları ləğv edir</b>
-‣ <b>/gbannedusers : Qlobal olaraq qadağan edilmiş istifadəçiləri göstərir</b>
-‣ <b>/blacklistchat [chat ID] : Çatı botdan istifadədən silir</b>
-‣ <b>/whitelistchat [chat ID] : Əvvəllər qara siyahıya salınmış söhbətə icazə verir</b>
-‣ <b>/blacklistedchat : Qara siyahıya salınmış söhbətləri göstərir</b>
+‣ <b>/gban [istifadəçi adı və ya cavab] : Kullanıcıları global olarak yasakla.</b>
+‣ <b>/ungban [istifadəçi adı və ya cavab] : Kullanıcı yasaklamasını kaldır.</b>
+‣ <b>/gbannedusers : Global olarak yasaklanmış kullanıcıları göster.</b>
+‣ <b>/blacklistchat [chat ID] : Sohbeti bot kullanımından kaldır.</b>
+‣ <b>/whitelistchat [chat ID] : Daha önce kara listeye alınmış sohbeti izin ver.</b>
+‣ <b>/blacklistedchat : Kara listeye alınmış sohbetleri göster.</b>
 """
