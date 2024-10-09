@@ -15,7 +15,7 @@ HELP_2 = """
 ‣ <b>/pauza: Geçici olarak duraklat.</b>
 ‣ <b>/resume: Duraklatılan müziği devam ettir.</b>
 ‣ <b>/skip: Bir sonraki şarkıya geç.</b>
-‣ <b>/end və ya /stop:  Gelecek parçaları temizle ve mevcut çalmayı durdur.</b>
+‣ <b>/son və ya /stop:  Gelecek parçaları temizle ve mevcut çalmayı durdur.</b>
 ‣ <b>/növbə: Kuyruğu göster.</b>
 ‣ <b>/auth [username/user_ID]</b>
 ‣ <b>/unauth [username/user_ID]</b>
